@@ -1,16 +1,10 @@
 
 # 🍔 Tasty Burger Website
 
-Welcome to the official static website for **Tasty Burger**, a delicious burger franchise known for its mouthwatering flavors and great service! This project showcases the design and layout for the franchise’s online presence.
+Welcome to the official static website for **Tasty Burger**, a delicious burger franchise known for its mouthwatering flavors and great service!
+This project showcases the design and layout for the franchise’s online presence.
 
 ---
-
-## 🚀 Live Demo
-
-🌐 [Visit Website](https://gaurav1045.github.io/tasty-burger-website/)
-
----
-
 ## 📌 Features
 
 - 🧾 Simple and responsive landing page
@@ -45,9 +39,8 @@ tasty-burger-website/
 
 ## 🧑‍💻 Author
 
-**Gaurav Dhakate**  
-📧 [Email](mailto:gaurav.dhakate@example.com)  
-🔗 [GitHub](https://github.com/Gaurav1045)
+**SR Carlo**  
+🔗 [GitHub](https://github.com/SRCarlo)
 
 ---
 
