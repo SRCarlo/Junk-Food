@@ -47,4 +47,3 @@ tasty-burger-website/
 ## 🙌 Acknowledgments
 
 Thanks to all the burger lovers who inspired this delicious project! 🍔❤️
-```
