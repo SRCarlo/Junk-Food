@@ -40,7 +40,7 @@ tasty-burger-website/
 ## 🧑‍💻 Author
 
 **SR Carlo**  
-🔗 [GitHub](https://github.com/SRCarlo)
+🔗 [GitHub]((https://github.com/SRCarlo/Junk-Food))
 
 ---
 
